@@ -1,4 +1,4 @@
-# 🐥 Rigor Poussin Miner
+# 🐥 Rigor Poussin Miner 0% fees
 
 **Mineur GPU NVIDIA pour RIGOR — Minage SOLO haute performance**
 
