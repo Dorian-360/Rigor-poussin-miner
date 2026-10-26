@@ -14,7 +14,6 @@ Il permet de miner directement sur votre propre nœud RIGOR, sans passer par une
 - **CUDA intégré** : aucune installation du toolkit CUDA nécessaire
 - **Configuration simple** : adresse du portefeuille et lancement
 - **Compatible Ubuntu 22.04+**
-- **Redémarrage automatique** possible avec Screen
 
 ---
 
